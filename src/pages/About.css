@@ -1,0 +1,13 @@
+.books {
+  align-items: center;
+  text-align: center;
+  max-width: 500px;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  margin-top: 70px;
+}
+.bookText {
+  backdrop-filter: blur(2px);
+  background-color: rgba(150, 150, 150, 0.5);
+}

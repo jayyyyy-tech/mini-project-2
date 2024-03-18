@@ -1,0 +1,17 @@
+.cardName {
+  height: 100% !important;
+}
+
+.cardName .cardImage {
+  height: 200px;
+  width: auto;
+  object-fit: cover;
+}
+.cardText {
+  font-size: x-small;
+}
+.cardButton {
+  bottom: 0;
+  display: flex;
+  margin: auto;
+}

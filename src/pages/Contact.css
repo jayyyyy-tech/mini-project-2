@@ -1,0 +1,20 @@
+.contact {
+  margin-top: 100px;
+  height: 100%;
+  margin-bottom: 100px;
+}
+.contactCard {
+  margin: auto;
+  max-width: 500px;
+  border: 2px solid rgb(189, 189, 189);
+  border-radius: 10px;
+  padding: 20px;
+  backdrop-filter: blur(2px);
+  background-color: rgba(196, 196, 196, 0.5);
+}
+.contact .button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+}

@@ -1,0 +1,32 @@
+* {
+  font-family: sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.containerBar {
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
+
+.infoSide {
+  margin-top: 80px;
+  max-width: 600px;
+  overflow: hidden;
+}
+.banner {
+  height: 100%;
+  width: 300px;
+  object-fit: cover;
+}
+.listItem {
+  text-decoration: none;
+}
+.url {
+  font-size: 12px;
+}
+.reviews {
+  border-radius: 5px;
+  border: 3px solid rgb(113, 111, 111);
+  padding: 10px;
+}

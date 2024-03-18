@@ -1,0 +1,11 @@
+* {
+  font-family: sans-serif;
+}
+.buttonInfo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bookItem {
+  margin-top: 80px;
+}
