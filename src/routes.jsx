@@ -1,8 +1,8 @@
 import Home from "./pages/Home";
+import Home2 from "./pages/Home2";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Books from "./pages/Books";
-import Home2 from "./pages/Home2";
 
 const routes = [
   {
